@@ -3,7 +3,7 @@
              version="3.1">
 
 <!-- here we can give our persistence name which we will use while performing CRUD operation -->
-    <persistence-unit name=" "> 
+    <persistence-unit name="xyz"> 
 
         <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
 
